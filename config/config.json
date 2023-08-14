@@ -1,0 +1,8 @@
+{
+  "port":80,
+  "godword":"",
+  "altlimit": 8,
+  "slowmode": 1000,
+  "namelimit": 35,
+  "charlimit": 5000
+}
